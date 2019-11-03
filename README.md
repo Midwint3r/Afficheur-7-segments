@@ -1,1 +1,1 @@
-# Afficheur-7-segments
+basic 7 segment printer
